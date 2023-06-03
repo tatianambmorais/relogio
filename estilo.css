@@ -1,0 +1,38 @@
+body {
+background: rgb(50, 50, 120);
+font: normal 15 pt Arial;
+
+
+}
+header {
+    color: white;
+    text-align: center;
+    padding: 1%
+}
+section {
+    background: white;
+    border-radius: 50px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.412);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 30%;
+    margin: 0 auto
+
+}
+
+.foto {
+    padding: 10%
+    
+
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    width: auto;
+    height: auto;
+
+}
